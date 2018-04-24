@@ -7,11 +7,11 @@ Using the Rio 2016 dataset from Kaggle, our team analyzed data of the athletes' 
 
       Testing: ANOVA/LCD
 
-2. Is there a relationship between GDP per capita of a country to the number of medals won by a country?
+2. Is there a relationship between GDP per capita of a country and participants to the number of medals won by a country?
 
       Visualization: Scatter plot
 
-      Testing: Linear Regression
+      Testing: Multiple Linear Regression and Logistic Regression
 
 3. Is there a difference in the mean age of male/female athletes of those who won in gymnastic events?
 
